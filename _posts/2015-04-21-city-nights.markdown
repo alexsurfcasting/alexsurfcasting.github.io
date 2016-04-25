@@ -1,5 +1,5 @@
 ---
-title:  "Google & Microsoft"
+title:  "Google & Microsoft CACA"
 subtitle: "Ya no habrá más denuncias entre Google y Microsoft"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
