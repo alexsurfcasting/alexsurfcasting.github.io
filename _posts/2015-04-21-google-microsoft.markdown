@@ -1,8 +1,8 @@
 ---
-title:  "Google & Microsoft CACA"
+title:  "Google & Microsoft"
 subtitle: "Ya no habrá más denuncias entre Google y Microsoft"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "Alex"
+avatar: "img/authors/alex.png"
 image: "img/google.jpg"
 date:   2015-04-21 12:12:12
 ---
@@ -24,3 +24,4 @@ Además de lo anterior, Microsoft ha retirado todas sus quejas a la Comisión Eu
 Por otra parte, si bien es cierto que Google ha firmado este acuerdo, por ahora no se ha dado ninguna información ni confirmación sobre este tratado de paz.
 
 Es cierto que hace ya algún tiempo, ambas compañías llegaban a un acuerdo con respecto a la guerra de patentes, pero gracias a este nuevo acuerdo, ambas compañías tendrán casi total libertad a la hora de desarrollar sus nuevos productos y servicios, sin necesidad de estar pendientes de posibles demandas por parte de la empresa rival, algo que, al final, acabará beneficiándonos a nosotros, los usuarios.
+

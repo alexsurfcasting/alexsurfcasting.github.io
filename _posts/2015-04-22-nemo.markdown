@@ -1,8 +1,8 @@
 ---
 title:  "Perdiendo a Nemo"
 subtitle: "Así se está muriendo la Gran Barrera de Coral"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "Alex"
+avatar: "img/authors/alex.png"
 image: "img/nemo.jpg"
 date:   2015-04-22 12:12:12
 ---
@@ -19,7 +19,7 @@ Según un informe elaborado por el gobierno australiano, el 93% de la barrera de
 
 ### Consecuencias sociales y ecológicas
 
-![Barrera](http://i.blogs.es/ac95fa/8030811530_f5d83b422d_k/1366_2000.jpg)
+![Barrera](img/barrera.jpg)
 
 La Gran Barrera se extiende sobre un área de casi 350.000 kilómetros cuadrados y es un milagro ecológico, un milagro que está en peligro: 400 especies de coral, 1800 de peces, 125 tipos de tiburones 17 especies de serpientes marinas, seis de tortugas, casi 300 especies de aves y más de 5000 especies de moluscos viven en el Mar de Coral.
 

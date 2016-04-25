@@ -1,8 +1,8 @@
 ---
 title:  "Comisión Sinde bloquea Goar y Exvagos"
 subtitle: "Goear y Exvagos dejan de estar disponibles en España: la Comisión Sinde ordena su bloqueo "
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+author: "Alex"
+avatar: "img/authors/alex.png"
 image: "img/exvagos.jpg"
 date:   2015-04-20 12:12:12
 ---

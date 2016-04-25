@@ -1,0 +1,24 @@
+---
+title:  "ZUK Z2"
+subtitle: "El Zuk Z2 Pro: un tope de gama asequible con Snapdragon 820 y 6 GB de RAM"
+author: "Alex"
+avatar: "img/authors/alex.png"
+image: "img/zuk2.jpg"
+date:   2015-04-23 12:12:12
+---
+
+### ZUK Z2 Pro
+El Zuk Z2 Pro ya es oficial: un tope de gama asequible con Snapdragon 820 y 6 GB de RAM
+
+![ZUK-Z2](http://andro4all.com/files/2016/04/zuk-z2-pro-02-700x450.jpg)
+
+### Snapdragon 820 y 6 GB de RAM por solo 370 euros
+El diseño del nuevo terminal de Zuk, se ha visto altamente modificado, tanto en tamaño como en materiales de construcción, pues si en el Zuk Z1 nos encontrábamos con un terminal realmente grande, este nuevo dispositivo baja hasta las 5,2 pulgadas, en parte debido a su cuerpo fabricado en aluminio y cristal, del cual Lenovo presumía en su presentación, pues afirman haber fabricado el primer terminal con tecnología 3D Glass y estará disponible en dos colores: blanco y negro.
+
+En cuanto a sus especificaciones más tecnicas, nos encontramos con un verdadero tope de gama, que no se lo va a poner nada fácil a los Meizu Pro 6, Xiaomi Mi 5 y compañía. Puedes ver todas sus características a continuación.
+
+![ZUK-specs](img/zuk-specs.png)
+
+Tal como podemos ver, estamos ante un terminal con unas características más que punteras, entre las que destacan, sin duda alguna, los 6 GB de RAM que acompañarán al poderoso procesador de Qualcomm, el Snapdragon 820.
+
+Por otra parte, vemos que, uno de las señas más significativas del Zuk Z1 como lo era la gran capacidad de batería, se ha visto reducida hasta en 1000 mAh, pues cae desde los 4100 de su antecesor, hasta los 3100 que incluye este nuevo terminal, en parte, algo necesario para ofrecer el tamaño contenido que nos proporciona el Z2 Pro.

@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Modern Blog</title>
-        <description>Modern-Blog A Elegant template for Jekyll</description>
+        <title>TechnoBlog</title>
+        <description>TechnoBlog, 4 all technology</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Mon, 25 Apr 2016 08:51:31 +0200</pubDate>
-        <lastBuildDate>Mon, 25 Apr 2016 08:51:31 +0200</lastBuildDate>
+        <pubDate>Mon, 25 Apr 2016 12:08:15 +0200</pubDate>
+        <lastBuildDate>Mon, 25 Apr 2016 12:08:15 +0200</lastBuildDate>
         <generator>Jekyll v3.1.2</generator>
         
         <item>
-            <title>A Craftsman Workshop</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
+            <title>Oracle pide 9 millones</title>
+            <description>&lt;h3 id=&quot;oracle-le-pide-9-mil-millones-a-google-por-licencias-de-java&quot;&gt;Oracle le pide 9 mil millones a Google, por licencias de Java&lt;/h3&gt;
+&lt;p&gt;Oracle y Google andan enredados en una incruenta batalla legal desde el 2012, por el uso por parte de esta última de 37 APIS de Java que se utilizan dentro del sistema operativo Android.&lt;/p&gt;
 
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
+&lt;p&gt;Es más, el problema no viene tanto del uso, si no del modo en que las utiliza. Ya que Google defiende que ha realizado un “uso razonable”, como permite la licencia de forma gratuita. Mientras que Oracle defiende que debería estar recibiendo millones de dolares a causa del copyright.&lt;/p&gt;
 
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
+&lt;p&gt;La verdad es que el tema muestra, una vez más, la debilidad de las leyes actuales para proteger a los usuarios, que somos los que pagamos el pato siempre finalmente. Y muestra la peor cara de Oracle, que le ha faltado tiempo para intentar sacar rédito monetario de un lenguaje que se ha encontrado maduro, con su compra de Sun.&lt;/p&gt;
 
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
+&lt;p&gt;Por otro lado, es todo un aviso a navegantes y una extraña visión de negocio a medio plazo, que seguro le va a costar a Oracle más de un disgusto; viendo lo que ha sufrido la reputación de otras compañías que también se pasaron de exigentes con sus patentes.&lt;/p&gt;
 
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
+&lt;p&gt;Lo más preocupante es la posible reacción de Google si finalmente paga la multa multimillonaria que le puede caer en el juicio del próximo 5 de Mayo, ya que ha demostrado que no le tiembla el pulso de cortar los servicios a pesar del daño hecho a sus usuarios.&lt;/p&gt;
+
+&lt;h3 id=&quot;oracle-ya-gan-un-juicio-similar-contra-sap&quot;&gt;Oracle ya ganó un juicio similar contra SAP&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.blogs.es/59ec35/sap/1366_2000.jpg&quot; alt=&quot;SAP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fue en el año 2010 y en aquella ocasión también se trató de un caso de infracción de patentes. En aquel momento SAP fue condenada a abonar 1.300 millones de dólares a Oracle al perder el juicio, y ya en aquel momento se trató de una de las mayores sanciones impuestas en casos similares.&lt;/p&gt;
+
+&lt;p&gt;Según información proveniente del interior de Google, sus expertos ya trabajan en un recurso para rebajar el importe reclamado en el caso de que en Oracle resulten vencedores frente al juez. La cantidad que barajan en Google no ha sido revelada pero a buen seguro será mucho menor que los 9.300 millones reclamados en primera instancia.&lt;/p&gt;
 </description>
             <pubDate>Sat, 25 Apr 2015 14:12:12 +0200</pubDate>
-            <link>#/2015/04/25/workshop.html</link>
-            <guid isPermaLink="true">#/2015/04/25/workshop.html</guid>
+            <link>#/2015/04/25/oracle-google.html</link>
+            <guid isPermaLink="true">#/2015/04/25/oracle-google.html</guid>
             
             
         </item>
@@ -38,31 +45,48 @@
 
 &lt;h3 id=&quot;htc-10-principales-caractersticas&quot;&gt;HTC 10, principales características&lt;/h3&gt;
 &lt;p&gt;El flagship con Android que nos quedaba por conocer este año era el de HTC. Tras hacerse de rogar, hace unos días conocíamos por fin al HTC 10, smartphone de gama alta que presenta unas credenciales que te sonarán seguro pero que incluye bastantes elementos diferenciadores con sus rivales.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.blogs.es/935d8f/htc-10-pantalla/1366_2000.jpg&quot; alt=&quot;HTC&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;htc-10-principales-caractersticas-1&quot;&gt;HTC 10, principales características&lt;/h2&gt;
+
+&lt;p&gt;El flagship con Android que nos quedaba por conocer este año era el de HTC. Tras hacerse de rogar, hace unos días conocíamos por fin al HTC 10, smartphone de gama alta que presenta unas credenciales que te sonarán seguro pero que incluye bastantes elementos diferenciadores con sus rivales.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/htcespecs.png&quot; alt=&quot;HTC-specs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La gama alta de referencia de 2016 ya está completa. Y vaya nivel. El HTC 10 ha sido el último en llegar y esta vez no ha decepcionado. Mantiene su gran nivel en la pantalla, que ahora es 2K para igualarse a la competencia, ofrece un rendimiento máximo, y encima la batería cumple y se recarga en un santiamén.&lt;/p&gt;
+
+&lt;p&gt;¿Y la cámara? Lo que otras generaciones le ha jugado un revés destacable a los gama alta de HTC se convierte en este HTC 10 en un buen argumento para el cambio. Los resultados, con algunos matices, son buenos incluso en escenas con poca luz, a lo que hay que añadir controles manuales y buena interfaz. No es la mejor cámara en la actualidad pero presenta argumentos muy serios para que optes por ella sin excesivos contratiempos.&lt;/p&gt;
+
 </description>
             <pubDate>Fri, 24 Apr 2015 14:12:12 +0200</pubDate>
-            <link>#/2015/04/24/i-scream.html</link>
-            <guid isPermaLink="true">#/2015/04/24/i-scream.html</guid>
+            <link>#/2015/04/24/htc10.html</link>
+            <guid isPermaLink="true">#/2015/04/24/htc10.html</guid>
             
             
         </item>
         
         <item>
-            <title>Absense of light</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
+            <title>ZUK Z2</title>
+            <description>&lt;h3 id=&quot;zuk-z2-pro&quot;&gt;ZUK Z2 Pro&lt;/h3&gt;
+&lt;p&gt;El Zuk Z2 Pro ya es oficial: un tope de gama asequible con Snapdragon 820 y 6 GB de RAM&lt;/p&gt;
 
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://andro4all.com/files/2016/04/zuk-z2-pro-02-700x450.jpg&quot; alt=&quot;ZUK-Z2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
+&lt;h3 id=&quot;snapdragon-820-y-6-gb-de-ram-por-solo-370-euros&quot;&gt;Snapdragon 820 y 6 GB de RAM por solo 370 euros&lt;/h3&gt;
+&lt;p&gt;El diseño del nuevo terminal de Zuk, se ha visto altamente modificado, tanto en tamaño como en materiales de construcción, pues si en el Zuk Z1 nos encontrábamos con un terminal realmente grande, este nuevo dispositivo baja hasta las 5,2 pulgadas, en parte debido a su cuerpo fabricado en aluminio y cristal, del cual Lenovo presumía en su presentación, pues afirman haber fabricado el primer terminal con tecnología 3D Glass y estará disponible en dos colores: blanco y negro.&lt;/p&gt;
 
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
+&lt;p&gt;En cuanto a sus especificaciones más tecnicas, nos encontramos con un verdadero tope de gama, que no se lo va a poner nada fácil a los Meizu Pro 6, Xiaomi Mi 5 y compañía. Puedes ver todas sus características a continuación.&lt;/p&gt;
 
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/zuk-specs.png&quot; alt=&quot;ZUK-specs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tal como podemos ver, estamos ante un terminal con unas características más que punteras, entre las que destacan, sin duda alguna, los 6 GB de RAM que acompañarán al poderoso procesador de Qualcomm, el Snapdragon 820.&lt;/p&gt;
+
+&lt;p&gt;Por otra parte, vemos que, uno de las señas más significativas del Zuk Z1 como lo era la gran capacidad de batería, se ha visto reducida hasta en 1000 mAh, pues cae desde los 4100 de su antecesor, hasta los 3100 que incluye este nuevo terminal, en parte, algo necesario para ofrecer el tamaño contenido que nos proporciona el Z2 Pro.&lt;/p&gt;
 </description>
             <pubDate>Thu, 23 Apr 2015 14:12:12 +0200</pubDate>
-            <link>#/2015/04/23/night-sky.html</link>
-            <guid isPermaLink="true">#/2015/04/23/night-sky.html</guid>
+            <link>#/2015/04/23/zukz2.html</link>
+            <guid isPermaLink="true">#/2015/04/23/zukz2.html</guid>
             
             
         </item>
@@ -81,21 +105,21 @@
 
 &lt;h3 id=&quot;consecuencias-sociales-y-ecolgicas&quot;&gt;Consecuencias sociales y ecológicas&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://i.blogs.es/ac95fa/8030811530_f5d83b422d_k/1366_2000.jpg&quot; alt=&quot;Barrera&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/barrera.jpg&quot; alt=&quot;Barrera&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;La Gran Barrera se extiende sobre un área de casi 350.000 kilómetros cuadrados y es un milagro ecológico, un milagro que está en peligro: 400 especies de coral, 1800 de peces, 125 tipos de tiburones 17 especies de serpientes marinas, seis de tortugas, casi 300 especies de aves y más de 5000 especies de moluscos viven en el Mar de Coral.&lt;/p&gt;
 
 &lt;p&gt;Pero no solo eso: mil millones de personas viven directa o indirectamente del sistema coralino y, solo a nivel turístico, mueve 5.000 millones de dólares al año. Como hemos aprendido durante todos estos años, las catástrofes ecológicas no son más que la antesala de las catástrofes socio-económicas. Últimamente, no ganamos para malas noticias.&lt;/p&gt;
 </description>
             <pubDate>Wed, 22 Apr 2015 14:12:12 +0200</pubDate>
-            <link>#/2015/04/22/what-time.html</link>
-            <guid isPermaLink="true">#/2015/04/22/what-time.html</guid>
+            <link>#/2015/04/22/nemo.html</link>
+            <guid isPermaLink="true">#/2015/04/22/nemo.html</guid>
             
             
         </item>
         
         <item>
-            <title>Google &amp; Microsoft CACA</title>
+            <title>Google &amp; Microsoft</title>
             <description>&lt;h3 id=&quot;ya-no-habr-ms-denuncias-entre-google-y-microsoft&quot;&gt;Ya no habrá más denuncias entre Google y Microsoft&lt;/h3&gt;
 
 &lt;p&gt;Durante las últimas semanas y días Google no parece estar pasando por sus mejores momentos, después de ser acusado por la Comisión Europea debido a su supuesto abuso de poder con respecto a las aplicaciones preinstaladas en los dispositivos con Android, además de no haber conseguido los resultados financieros esperados por parte de Alphabet.&lt;/p&gt;
@@ -113,10 +137,11 @@
 &lt;p&gt;Por otra parte, si bien es cierto que Google ha firmado este acuerdo, por ahora no se ha dado ninguna información ni confirmación sobre este tratado de paz.&lt;/p&gt;
 
 &lt;p&gt;Es cierto que hace ya algún tiempo, ambas compañías llegaban a un acuerdo con respecto a la guerra de patentes, pero gracias a este nuevo acuerdo, ambas compañías tendrán casi total libertad a la hora de desarrollar sus nuevos productos y servicios, sin necesidad de estar pendientes de posibles demandas por parte de la empresa rival, algo que, al final, acabará beneficiándonos a nosotros, los usuarios.&lt;/p&gt;
+
 </description>
             <pubDate>Tue, 21 Apr 2015 14:12:12 +0200</pubDate>
-            <link>#/2015/04/21/city-nights.html</link>
-            <guid isPermaLink="true">#/2015/04/21/city-nights.html</guid>
+            <link>#/2015/04/21/google-microsoft.html</link>
+            <guid isPermaLink="true">#/2015/04/21/google-microsoft.html</guid>
             
             
         </item>
@@ -155,8 +180,8 @@ La Sección Segunda dicta la sentencia&lt;/p&gt;
 
 </description>
             <pubDate>Mon, 20 Apr 2015 14:12:12 +0200</pubDate>
-            <link>#/2015/04/20/planes.html</link>
-            <guid isPermaLink="true">#/2015/04/20/planes.html</guid>
+            <link>#/2015/04/20/comision-sinde.html</link>
+            <guid isPermaLink="true">#/2015/04/20/comision-sinde.html</guid>
             
             
         </item>

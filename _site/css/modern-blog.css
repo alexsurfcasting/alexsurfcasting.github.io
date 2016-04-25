@@ -356,3 +356,40 @@ a:focus {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
 }
+
+/*Images*/
+
+img[alt="Barrera"] { 
+  max-width: 670px; 
+  display: block;
+}
+
+img[alt="Android"] {
+  max-width: 670px;
+  display: blocik;
+ }
+ 
+img[alt="HTC"] {
+  max-width: 670px; 
+  display: block;
+}
+
+img[alt="HTC-specs"] {
+  max-width: 670px; 
+  display: block;
+}
+
+img[alt="SAP"] {
+  max-width: 670px; 
+  display: block;
+}
+
+img[alt="ZUK-Z2	"] {
+  max-width: 670px; 
+  display: block;
+}
+
+img[alt="ZUK-specs"] {
+  max-width: 670px; 
+  display: block;
+}
